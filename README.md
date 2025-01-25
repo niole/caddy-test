@@ -12,3 +12,8 @@ test
 ```
 curl localhost:8080 # should print out "NIOLE" in the caddy container logs
 ```
+
+dev
+```
+xcaddy run
+```
